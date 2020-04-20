@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aaaf04ce-900a-4511-8c73-c9ccaa08f7b6" name="Maven" url="http://localhost">
+        <fileTransfer mountedRoot="D:\Java\IdeaProjects\deploy" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
